@@ -207,8 +207,6 @@ them was removed due to the link no longer being valid.**
 **Default no-icons setup:**
 ![image](https://user-images.githubusercontent.com/29580810/114742106-36201380-9d6d-11eb-9866-e8c0fef8a1bd.png)
 
-**[Config by dexxiez:](https://github.com/dexxiez/feline.nvim/discussions/2)**
-![image](https://user-images.githubusercontent.com/6127369/220177261-668841ca-3128-436f-8879-62f145261399.png)
 
 **[Config by crivotz:](https://github.com/crivotz/nv-ide/blob/master/lua/config/plugins/feline.lua)**
 ![image](https://user-images.githubusercontent.com/3275600/114841377-0ce89d00-9dd8-11eb-82b4-b3ee332771c2.png)
